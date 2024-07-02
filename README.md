@@ -1,0 +1,1 @@
+This a housing website scraper specifically for domain.com.au. It allows the user to scrape property data from the website of a certain suburb or area. User needs to provide their own API key to run this program.
